@@ -17,6 +17,7 @@
 #include <optional>
 #include <thread>
 #include <vector>
+#include <chrono>
 
 #include "native_view_container.h"
 #include "native_view_subclass_proc.h"
